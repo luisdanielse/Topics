@@ -1,0 +1,16 @@
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\bin\Debug\net5.0\ConsumingServices.exe
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\bin\Debug\net5.0\ConsumingServices.deps.json
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\bin\Debug\net5.0\ConsumingServices.runtimeconfig.json
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\bin\Debug\net5.0\ConsumingServices.runtimeconfig.dev.json
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\bin\Debug\net5.0\ConsumingServices.dll
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\bin\Debug\net5.0\ref\ConsumingServices.dll
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\bin\Debug\net5.0\ConsumingServices.pdb
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\obj\Debug\net5.0\ConsumingServices.csproj.AssemblyReference.cache
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\obj\Debug\net5.0\ConsumingServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\obj\Debug\net5.0\ConsumingServices.AssemblyInfoInputs.cache
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\obj\Debug\net5.0\ConsumingServices.AssemblyInfo.cs
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\obj\Debug\net5.0\ConsumingServices.csproj.CoreCompileInputs.cache
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\obj\Debug\net5.0\ConsumingServices.dll
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\obj\Debug\net5.0\ref\ConsumingServices.dll
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\obj\Debug\net5.0\ConsumingServices.pdb
+E:\visual-studiop\Topics\ConsumingServices\ConsumingServices\obj\Debug\net5.0\ConsumingServices.genruntimeconfig.cache

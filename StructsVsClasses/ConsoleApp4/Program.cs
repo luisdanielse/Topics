@@ -18,6 +18,8 @@ namespace ConsoleApp4
             thestruct.sayHi();
             theclass.sayHi();
 
+ 
+
         }
 
 
@@ -37,5 +39,5 @@ namespace ConsoleApp4
         }
     }
 
-   
+
 }

@@ -1,0 +1,16 @@
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\bin\Debug\net5.0\TicTactToe.exe
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\bin\Debug\net5.0\TicTactToe.deps.json
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\bin\Debug\net5.0\TicTactToe.runtimeconfig.json
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\bin\Debug\net5.0\TicTactToe.runtimeconfig.dev.json
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\bin\Debug\net5.0\TicTactToe.dll
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\bin\Debug\net5.0\ref\TicTactToe.dll
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\bin\Debug\net5.0\TicTactToe.pdb
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\obj\Debug\net5.0\TicTactToe.csproj.AssemblyReference.cache
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\obj\Debug\net5.0\TicTactToe.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\obj\Debug\net5.0\TicTactToe.AssemblyInfoInputs.cache
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\obj\Debug\net5.0\TicTactToe.AssemblyInfo.cs
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\obj\Debug\net5.0\TicTactToe.csproj.CoreCompileInputs.cache
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\obj\Debug\net5.0\TicTactToe.dll
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\obj\Debug\net5.0\ref\TicTactToe.dll
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\obj\Debug\net5.0\TicTactToe.pdb
+E:\visual-studiop\Topics\TicTactToe\TicTactToe\obj\Debug\net5.0\TicTactToe.genruntimeconfig.cache
