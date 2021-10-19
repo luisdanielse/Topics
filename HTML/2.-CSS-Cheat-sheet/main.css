@@ -1,0 +1,91 @@
+﻿body {
+    background: #FFFFFF;
+    margin: 0px;
+}
+
+/*
+    All the elements that contains the class: fontsize18
+
+*/
+.fontsize18{
+   font-size: 18px;
+}
+
+.weightnormal {
+    font-weight: normal;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background: #f7dbdb;
+}
+
+.square p {
+    color: white;
+    font-size: 14px;
+    text-shadow: 0px 0px 2px black;
+}
+
+
+.shadow{
+    box-shadow: 0px 0px 10px red;
+}
+
+.customFontStyle
+{
+    text-align: center;
+    font-style: italic;
+}
+
+
+.gridOfDivs {
+    background: #000000;
+    width: 90%;
+    /* Margin will impact the external items */
+    margin: 10px auto;
+    /* Margin will impact the internal items */
+    padding-top: 10px;
+    text-align: center;
+}
+
+.gridOfDivs .square {
+    display: inline-block;
+    margin: 10px 0px;
+}
+
+.gridOfDivs .square button {
+    background: #4e4ea9;
+    border: 0px;
+    box-shadow: 0px 0px 2px white;
+    color: white;
+    text-shadow: 0px 0px 2px black;
+    box-shadow: 0px 0px 5px black;
+    margin-top: 15px;
+    transition-duration: 1s;
+    transition-property: all;
+}
+
+.gridOfDivs .square button:hover {
+    box-shadow: 0px 0px 5px red;
+    background: red;
+}
+
+    .gridOfButtons {
+        background: #000000;
+        width: 90%;
+        /* Margin will impact the external items */
+        margin: 10px auto;
+        /* Margin will impact the internal items */
+        padding-top: 10px;
+    }
+
+.gridOfButtons button
+{
+    background: #4e4ea9;
+    border: 0px;
+    box-shadow: 0px 0px 2px white;
+    color: white;
+    text-shadow: 0px 0px 2px black;
+}
+
