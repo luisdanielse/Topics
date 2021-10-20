@@ -1,0 +1,41 @@
+﻿body {
+    margin: 0px;
+    background: gray;
+}
+
+
+h1.mainTitle{
+    text-align: center;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.container {
+    width: 100%;
+    background: #000000;
+    padding: 20px 0px;
+}
+
+.container .item {
+    width: 90%;
+    height: 100px;
+    background: white;
+    margin: 10px auto;
+}
+
+
+/** My first media querie*/
+@media screen and (min-width: 768px) {
+
+
+    /** To center the items */
+    .container{
+        text-align: center;
+    }
+    .container .item {
+        background: red;
+        display: inline-block;
+        width: 30%;
+    }
+
+}

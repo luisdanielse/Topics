@@ -1,0 +1,23 @@
+﻿body {
+    
+}
+
+div.mainContainer {
+    width: 90%;
+    background: #d76262;
+    padding: 10px 0px;
+    padding-left: 10px;
+}
+
+div.containerService {
+    border: 1px solid black;
+    margin: 10px 0px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+div.containerService button.analyze{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
