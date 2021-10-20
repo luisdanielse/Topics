@@ -5,19 +5,21 @@ function analyzeText() {
     var text = document.getElementById('textToAnalyze').value;
     console.log(text);
 
-    //var url = "https://danielscognservice.cognitiveservices.azure.com/text/analytics/v3.2-preview.1/sentiment?opinionMining=true";
-    //var cogSvcKey = "46cdc71e83024398a9fc82c9dd901e77";
+    var url = "https://danielscognservice.cognitiveservices.azure.com/text/analytics/v3.2-preview.1/sentiment?opinionMining=true";
+    var cogSvcKey = "46cdc71e83024398a9fc82c9dd901e77";
    
-    /*
+    
     // Example POST method implementation:
     postData(url, { documents: [{ id: '1', text: text }] }, cogSvcKey)
         .then(data => {
             result = data;
         });
-    */
+    console.log("The result is: ");
+    console.log(result);
+    
 }
 
-/*
+
 async function postData(url, data, cogKey) {
     // Default options are marked with *
     const response = await fetch(url, {
@@ -37,7 +39,7 @@ async function postData(url, data, cogKey) {
     return response.json(); // parses JSON response into native JavaScript objects
 }
 
-*/
+
 
 function analyzeImg() {
     var urlImage = document.getElementById('urlImgToAnalyze').value;
