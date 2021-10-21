@@ -1,5 +1,6 @@
 var counter = 0;
 
+var flag = false;
 document.addEventListener('DOMContentLoaded', function(){
 	console.log("This method will be executed once the browser render all the objects ");
 	console.log("Hello world :D");
@@ -17,8 +18,14 @@ This is a block of comments
 	console.log("The value of counter is " + counter);
 	
 	var myContainer = document.getElementById('mycontainer')
-
-	var dynamicParagraph = "<p> Element "+counter+ " added dynamically</p>";
+	if(flag == false){
+		var dynamicParagraph = "<p class='class1'> Element "+counter+ " added dynamically</p>";
+		flag = true;
+	}
+	else{
+		var dynamicParagraph = "<p class='class2'> Element "+counter+ " added dynamically</p>";
+		flag = false;
+	}
 	myContainer.insertAdjacentHTML('beforeend', dynamicParagraph)
 }
 
